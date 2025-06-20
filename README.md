@@ -46,7 +46,7 @@ You can view the live preview of the project [here](https://byteroom.vercel.app/
 
 ## 🧾 License
 
-![GitHub License](https://img.shields.io/github/license/kreeeesh_17/byteroom?style=for-the-badge&color=e67234)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 
 This project is licensed under the [MIT License](LICENSE).
 
